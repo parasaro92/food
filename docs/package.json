@@ -10,19 +10,10 @@
   "dependencies": {
     "vue": "^2.5.21",
     "@babel/polyfill": "^7.0.0-rc.1",
-    "alertify": "^0.3.0",
-    "axios": "^0.18.0",
-    "bootstrap": "^4.1.3",
     "jquery": "^3.3.1",
-    "popper.js": "^1.14.4",
-    "vee-validate": "^2.1.0-beta.9",
-    "vue-alertify": "^1.0.5",
-    "vue-cookie": "^1.1.4",
     "vue-material": "^1.0.0-beta-10.2",
-    "vue-recaptcha": "^1.1.1",
     "vue-router": "^3.0.1",
-    "vuetify": "^1.2.0",
-    "vuex": "^3.0.1"
+    "vuetify": "^1.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.3.0",
